@@ -1,0 +1,14 @@
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\wow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\wow.AssemblyInfoInputs.cache
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\wow.AssemblyInfo.cs
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\wow.csproj.CoreCompileInputs.cache
+C:\Leran\Study(0127)\wow\bin\Debug\net8.0\wow.exe
+C:\Leran\Study(0127)\wow\bin\Debug\net8.0\wow.deps.json
+C:\Leran\Study(0127)\wow\bin\Debug\net8.0\wow.runtimeconfig.json
+C:\Leran\Study(0127)\wow\bin\Debug\net8.0\wow.dll
+C:\Leran\Study(0127)\wow\bin\Debug\net8.0\wow.pdb
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\wow.dll
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\refint\wow.dll
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\wow.pdb
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\wow.genruntimeconfig.cache
+C:\Leran\Study(0127)\wow\obj\Debug\net8.0\ref\wow.dll

@@ -1,0 +1,14 @@
+C:\Leran\Study(0127)\MiniGame2-6\bin\Debug\net8.0\MiniGame2-6.exe
+C:\Leran\Study(0127)\MiniGame2-6\bin\Debug\net8.0\MiniGame2-6.deps.json
+C:\Leran\Study(0127)\MiniGame2-6\bin\Debug\net8.0\MiniGame2-6.runtimeconfig.json
+C:\Leran\Study(0127)\MiniGame2-6\bin\Debug\net8.0\MiniGame2-6.dll
+C:\Leran\Study(0127)\MiniGame2-6\bin\Debug\net8.0\MiniGame2-6.pdb
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\MiniGame2-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\MiniGame2-6.AssemblyInfoInputs.cache
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\MiniGame2-6.AssemblyInfo.cs
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\MiniGame2-6.csproj.CoreCompileInputs.cache
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\MiniGame2-6.dll
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\refint\MiniGame2-6.dll
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\MiniGame2-6.pdb
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\MiniGame2-6.genruntimeconfig.cache
+C:\Leran\Study(0127)\MiniGame2-6\obj\Debug\net8.0\ref\MiniGame2-6.dll

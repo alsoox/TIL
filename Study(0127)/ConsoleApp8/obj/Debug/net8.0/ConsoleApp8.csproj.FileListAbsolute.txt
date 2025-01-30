@@ -1,0 +1,14 @@
+C:\Leran\Study(0127)\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.exe
+C:\Leran\Study(0127)\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.deps.json
+C:\Leran\Study(0127)\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.runtimeconfig.json
+C:\Leran\Study(0127)\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.dll
+C:\Leran\Study(0127)\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.pdb
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfo.cs
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.dll
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\refint\ConsoleApp8.dll
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.pdb
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.genruntimeconfig.cache
+C:\Leran\Study(0127)\ConsoleApp8\obj\Debug\net8.0\ref\ConsoleApp8.dll

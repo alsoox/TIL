@@ -1,0 +1,14 @@
+C:\Leran\ConsoleApp1\Test\bin\Debug\net8.0\Test.exe
+C:\Leran\ConsoleApp1\Test\bin\Debug\net8.0\Test.deps.json
+C:\Leran\ConsoleApp1\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+C:\Leran\ConsoleApp1\Test\bin\Debug\net8.0\Test.dll
+C:\Leran\ConsoleApp1\Test\bin\Debug\net8.0\Test.pdb
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\Test.dll
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\refint\Test.dll
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\Test.pdb
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+C:\Leran\ConsoleApp1\Test\obj\Debug\net8.0\ref\Test.dll

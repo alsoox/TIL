@@ -1,0 +1,14 @@
+C:\Leran\Study(0127)\Test2\bin\Debug\net8.0\Test2.exe
+C:\Leran\Study(0127)\Test2\bin\Debug\net8.0\Test2.deps.json
+C:\Leran\Study(0127)\Test2\bin\Debug\net8.0\Test2.runtimeconfig.json
+C:\Leran\Study(0127)\Test2\bin\Debug\net8.0\Test2.dll
+C:\Leran\Study(0127)\Test2\bin\Debug\net8.0\Test2.pdb
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\Test2.AssemblyInfoInputs.cache
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\Test2.AssemblyInfo.cs
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\Test2.csproj.CoreCompileInputs.cache
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\Test2.dll
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\refint\Test2.dll
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\Test2.pdb
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\Test2.genruntimeconfig.cache
+C:\Leran\Study(0127)\Test2\obj\Debug\net8.0\ref\Test2.dll

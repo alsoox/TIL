@@ -1,0 +1,14 @@
+C:\Leran\Study(0127)\OneMore\bin\Debug\net8.0\OneMore.exe
+C:\Leran\Study(0127)\OneMore\bin\Debug\net8.0\OneMore.deps.json
+C:\Leran\Study(0127)\OneMore\bin\Debug\net8.0\OneMore.runtimeconfig.json
+C:\Leran\Study(0127)\OneMore\bin\Debug\net8.0\OneMore.dll
+C:\Leran\Study(0127)\OneMore\bin\Debug\net8.0\OneMore.pdb
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\OneMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\OneMore.AssemblyInfoInputs.cache
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\OneMore.AssemblyInfo.cs
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\OneMore.csproj.CoreCompileInputs.cache
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\OneMore.dll
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\refint\OneMore.dll
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\OneMore.pdb
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\OneMore.genruntimeconfig.cache
+C:\Leran\Study(0127)\OneMore\obj\Debug\net8.0\ref\OneMore.dll

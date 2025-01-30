@@ -1,0 +1,14 @@
+C:\Leran\Study(0127)\han\bin\Debug\net8.0\han.exe
+C:\Leran\Study(0127)\han\bin\Debug\net8.0\han.deps.json
+C:\Leran\Study(0127)\han\bin\Debug\net8.0\han.runtimeconfig.json
+C:\Leran\Study(0127)\han\bin\Debug\net8.0\han.dll
+C:\Leran\Study(0127)\han\bin\Debug\net8.0\han.pdb
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\han.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\han.AssemblyInfoInputs.cache
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\han.AssemblyInfo.cs
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\han.csproj.CoreCompileInputs.cache
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\han.dll
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\refint\han.dll
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\han.pdb
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\han.genruntimeconfig.cache
+C:\Leran\Study(0127)\han\obj\Debug\net8.0\ref\han.dll
