@@ -1,38 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Leran\\Study(0127)\\",
+  "WorkspaceRootPath": "C:\\Leran\\TIL\\Study(0127)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB15E1E8-E52E-47E6-9686-FA36E15C46A5}|MiniGame2-6\\MiniGame2-6.csproj|c:\\leran\\study(0127)\\minigame2-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90401090-6138-4FAC-A002-8848B76F1B12}|13_2\\13_2.csproj|c:\\leran\\til\\study(0127)\\13_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90401090-6138-4FAC-A002-8848B76F1B12}|13_2\\13_2.csproj|solutionrelative:13_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090C6195-E242-478C-A615-6A40AFF96B02}|13_1\\13_1.csproj|c:\\leran\\til\\study(0127)\\13_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090C6195-E242-478C-A615-6A40AFF96B02}|13_1\\13_1.csproj|solutionrelative:13_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCD6A62-7D31-4364-99C2-7EB55153924C}|10_3\\10_3.csproj|c:\\leran\\til\\study(0127)\\10_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCD6A62-7D31-4364-99C2-7EB55153924C}|10_3\\10_3.csproj|solutionrelative:10_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4738CE9C-2192-4BED-B58F-27318E82ACCC}|11_2\\11_2.csproj|c:\\leran\\til\\study(0127)\\11_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4738CE9C-2192-4BED-B58F-27318E82ACCC}|11_2\\11_2.csproj|solutionrelative:11_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3E94CE-3074-4725-8305-D6DDF16FFEA9}|11_1\\11_1.csproj|c:\\leran\\til\\study(0127)\\11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3E94CE-3074-4725-8305-D6DDF16FFEA9}|11_1\\11_1.csproj|solutionrelative:11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D8C793-2ACD-4D14-A7C8-3CBECE8EF774}|Retry\\Retry.csproj|c:\\leran\\til\\study(0127)\\retry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D8C793-2ACD-4D14-A7C8-3CBECE8EF774}|Retry\\Retry.csproj|solutionrelative:retry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9C0C85-5146-46B6-AA27-61EA5006A2DA}|9_2\\9_2.csproj|c:\\leran\\til\\study(0127)\\9_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9C0C85-5146-46B6-AA27-61EA5006A2DA}|9_2\\9_2.csproj|solutionrelative:9_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1189BB-59E0-4B8B-B80A-1525E38F90C3}|9_3\\9_3.csproj|c:\\leran\\til\\study(0127)\\9_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1189BB-59E0-4B8B-B80A-1525E38F90C3}|9_3\\9_3.csproj|solutionrelative:9_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1B3C8A-EF5A-4FBF-92A8-4DE80FA1FEB3}|10_1\\10_1.csproj|c:\\leran\\til\\study(0127)\\10_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1B3C8A-EF5A-4FBF-92A8-4DE80FA1FEB3}|10_1\\10_1.csproj|solutionrelative:10_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB16232-5DB4-41B2-8E6E-DA9D738B9862}|9_1\\9_1.csproj|c:\\leran\\til\\study(0127)\\9_1\\9_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAB16232-5DB4-41B2-8E6E-DA9D738B9862}|9_1\\9_1.csproj|solutionrelative:9_1\\9_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DABDD8-4016-4B38-BD67-C8DBA6DDEE97}|Test3\\Test3.csproj|c:\\leran\\til\\study(0127)\\test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DABDD8-4016-4B38-BD67-C8DBA6DDEE97}|Test3\\Test3.csproj|solutionrelative:test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67527D12-998A-4AED-918A-06672A0A9CBB}|MiniGame3_1\\MiniGame3_1.csproj|c:\\leran\\til\\study(0127)\\minigame3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67527D12-998A-4AED-918A-06672A0A9CBB}|MiniGame3_1\\MiniGame3_1.csproj|solutionrelative:minigame3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EAAA86-E1D8-458C-973D-548CBD5B135D}|10_2\\10_2.csproj|c:\\leran\\til\\study(0127)\\10_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EAAA86-E1D8-458C-973D-548CBD5B135D}|10_2\\10_2.csproj|solutionrelative:10_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB16232-5DB4-41B2-8E6E-DA9D738B9862}|9_1\\9_1.csproj|c:\\leran\\til\\study(0127)\\9_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB16232-5DB4-41B2-8E6E-DA9D738B9862}|9_1\\9_1.csproj|solutionrelative:9_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7A7210-8910-405A-BE92-C679756FDAC0}|8_2\\8_2.csproj|c:\\leran\\til\\study(0127)\\8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7A7210-8910-405A-BE92-C679756FDAC0}|8_2\\8_2.csproj|solutionrelative:8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A4567B-0F69-4A8B-9F4E-00B30468FE76}|ConsoleApp10\\ConsoleApp10.csproj|c:\\leran\\til\\study(0127)\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A4567B-0F69-4A8B-9F4E-00B30468FE76}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB15E1E8-E52E-47E6-9686-FA36E15C46A5}|MiniGame2-6\\MiniGame2-6.csproj|c:\\leran\\til\\study(0127)\\minigame2-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB15E1E8-E52E-47E6-9686-FA36E15C46A5}|MiniGame2-6\\MiniGame2-6.csproj|solutionrelative:minigame2-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3538D1-EE2F-425F-9D64-618688BAE37C}|OneMore\\OneMore.csproj|c:\\leran\\study(0127)\\onemore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C3538D1-EE2F-425F-9D64-618688BAE37C}|OneMore\\OneMore.csproj|solutionrelative:onemore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D098FC60-772C-47BC-AE10-DB3012555700}|Test\\Test.csproj|c:\\leran\\study(0127)\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D098FC60-772C-47BC-AE10-DB3012555700}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6DE3C73-90B5-4AD0-9341-704743CA7C3A}|MiniGame2-5\\MiniGame2-5.csproj|c:\\leran\\study(0127)\\minigame2-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6DE3C73-90B5-4AD0-9341-704743CA7C3A}|MiniGame2-5\\MiniGame2-5.csproj|c:\\leran\\til\\study(0127)\\minigame2-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6DE3C73-90B5-4AD0-9341-704743CA7C3A}|MiniGame2-5\\MiniGame2-5.csproj|solutionrelative:minigame2-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE87ED07-71C1-4993-A6F7-58B5CAB67B57}|Test2\\Test2.csproj|c:\\leran\\study(0127)\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87ED07-71C1-4993-A6F7-58B5CAB67B57}|Test2\\Test2.csproj|solutionrelative:test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A582106-80F6-478F-9576-913B590EA6C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\leran\\study(0127)\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A582106-80F6-478F-9576-913B590EA6C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D098FC60-772C-47BC-AE10-DB3012555700}|Test\\Test.csproj|c:\\leran\\study(0127)\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D098FC60-772C-47BC-AE10-DB3012555700}|Test\\Test.csproj|c:\\leran\\til\\study(0127)\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D098FC60-772C-47BC-AE10-DB3012555700}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8019BF8E-B9A0-44B7-9B8D-AE3E9F1D0E50}|ConsoleApp9\\ConsoleApp9.csproj|c:\\leran\\study(0127)\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE87ED07-71C1-4993-A6F7-58B5CAB67B57}|Test2\\Test2.csproj|c:\\leran\\til\\study(0127)\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE87ED07-71C1-4993-A6F7-58B5CAB67B57}|Test2\\Test2.csproj|solutionrelative:test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A582106-80F6-478F-9576-913B590EA6C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\leran\\til\\study(0127)\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A582106-80F6-478F-9576-913B590EA6C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8019BF8E-B9A0-44B7-9B8D-AE3E9F1D0E50}|ConsoleApp9\\ConsoleApp9.csproj|c:\\leran\\til\\study(0127)\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8019BF8E-B9A0-44B7-9B8D-AE3E9F1D0E50}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3538D1-EE2F-425F-9D64-618688BAE37C}|OneMore\\OneMore.csproj|c:\\leran\\til\\study(0127)\\onemore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3538D1-EE2F-425F-9D64-618688BAE37C}|OneMore\\OneMore.csproj|solutionrelative:onemore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098FC60-772C-47BC-AE10-DB3012555700}|Test\\Test.csproj|c:\\leran\\til\\study(0127)\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D098FC60-772C-47BC-AE10-DB3012555700}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,67 +106,261 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\13_2\\Program.cs",
+              "RelativeDocumentMoniker": "13_2\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\13_2\\Program.cs",
+              "RelativeToolTip": "13_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:26:27.389Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Leran\\Study(0127)\\OneMore\\Program.cs",
-              "RelativeDocumentMoniker": "OneMore\\Program.cs",
-              "ToolTip": "C:\\Leran\\Study(0127)\\OneMore\\Program.cs",
-              "RelativeToolTip": "OneMore\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAAyAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\13_1\\Program.cs",
+              "RelativeDocumentMoniker": "13_1\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\13_1\\Program.cs",
+              "RelativeToolTip": "13_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T12:50:11.632Z",
+              "WhenOpened": "2025-02-03T07:10:53.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Test.csproj",
-              "DocumentMoniker": "C:\\Leran\\Study(0127)\\Test\\Test.csproj",
-              "RelativeDocumentMoniker": "Test\\Test.csproj",
-              "ToolTip": "C:\\Leran\\Study(0127)\\Test\\Test.csproj",
-              "RelativeToolTip": "Test\\Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-30T11:26:07.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Leran\\Study(0127)\\MiniGame2-6\\Program.cs",
-              "RelativeDocumentMoniker": "MiniGame2-6\\Program.cs",
-              "ToolTip": "C:\\Leran\\Study(0127)\\MiniGame2-6\\Program.cs",
-              "RelativeToolTip": "MiniGame2-6\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\10_3\\Program.cs",
+              "RelativeDocumentMoniker": "10_3\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\10_3\\Program.cs",
+              "RelativeToolTip": "10_3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T08:11:05.562Z",
+              "WhenOpened": "2025-02-03T06:37:34.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Leran\\Study(0127)\\MiniGame2-5\\Program.cs",
-              "RelativeDocumentMoniker": "MiniGame2-5\\Program.cs",
-              "ToolTip": "C:\\Leran\\Study(0127)\\MiniGame2-5\\Program.cs",
-              "RelativeToolTip": "MiniGame2-5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\11_2\\Program.cs",
+              "RelativeDocumentMoniker": "11_2\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\11_2\\Program.cs",
+              "RelativeToolTip": "11_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T07:57:17.243Z",
+              "WhenOpened": "2025-02-03T06:25:33.745Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\11_1\\Program.cs",
+              "RelativeDocumentMoniker": "11_1\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\11_1\\Program.cs",
+              "RelativeToolTip": "11_1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:17:21.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "9_1.csproj",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\9_1\\9_1.csproj",
+              "RelativeDocumentMoniker": "9_1\\9_1.csproj",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\9_1\\9_1.csproj",
+              "RelativeToolTip": "9_1\\9_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T12:17:59.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\Retry\\Program.cs",
+              "RelativeDocumentMoniker": "Retry\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\Retry\\Program.cs",
+              "RelativeToolTip": "Retry\\Program.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAMwBIBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:49:13.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\Test3\\Program.cs",
+              "RelativeDocumentMoniker": "Test3\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\Test3\\Program.cs",
+              "RelativeToolTip": "Test3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:18:51.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\MiniGame3_1\\Program.cs",
+              "RelativeDocumentMoniker": "MiniGame3_1\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\MiniGame3_1\\Program.cs",
+              "RelativeToolTip": "MiniGame3_1\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAHoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:49:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\10_2\\Program.cs",
+              "RelativeDocumentMoniker": "10_2\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\10_2\\Program.cs",
+              "RelativeToolTip": "10_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:15:43.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\10_1\\Program.cs",
+              "RelativeDocumentMoniker": "10_1\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\10_1\\Program.cs",
+              "RelativeToolTip": "10_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:50:27.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\9_3\\Program.cs",
+              "RelativeDocumentMoniker": "9_3\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\9_3\\Program.cs",
+              "RelativeToolTip": "9_3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:40:01.163Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Leran\\Study(0127)\\Test\\Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\9_2\\Program.cs",
+              "RelativeDocumentMoniker": "9_2\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\9_2\\Program.cs",
+              "RelativeToolTip": "9_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:23:16.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\9_1\\Program.cs",
+              "RelativeDocumentMoniker": "9_1\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\9_1\\Program.cs",
+              "RelativeToolTip": "9_1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:10:50.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\8_2\\Program.cs",
+              "RelativeDocumentMoniker": "8_2\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\8_2\\Program.cs",
+              "RelativeToolTip": "8_2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:51:31.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\ConsoleApp10\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\ConsoleApp10\\Program.cs",
+              "RelativeToolTip": "ConsoleApp10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:40:09.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\OneMore\\Program.cs",
+              "RelativeDocumentMoniker": "OneMore\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\OneMore\\Program.cs",
+              "RelativeToolTip": "OneMore\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:50:11.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T11:26:07.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\MiniGame2-6\\Program.cs",
+              "RelativeDocumentMoniker": "MiniGame2-6\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\MiniGame2-6\\Program.cs",
+              "RelativeToolTip": "MiniGame2-6\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:11:05.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\MiniGame2-5\\Program.cs",
+              "RelativeDocumentMoniker": "MiniGame2-5\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\MiniGame2-5\\Program.cs",
+              "RelativeToolTip": "MiniGame2-5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:57:17.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "C:\\Leran\\Study(0127)\\Test\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,24 +368,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Leran\\Study(0127)\\Test2\\Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\Test2\\Program.cs",
               "RelativeDocumentMoniker": "Test2\\Program.cs",
-              "ToolTip": "C:\\Leran\\Study(0127)\\Test2\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\Test2\\Program.cs",
               "RelativeToolTip": "Test2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T05:42:02.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T05:42:02.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Leran\\Study(0127)\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Leran\\Study(0127)\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Leran\\Study(0127)\\ConsoleApp9\\Program.cs",
+              "DocumentMoniker": "C:\\Leran\\TIL\\Study(0127)\\ConsoleApp9\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
-              "ToolTip": "C:\\Leran\\Study(0127)\\ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Leran\\TIL\\Study(0127)\\ConsoleApp9\\Program.cs",
               "RelativeToolTip": "ConsoleApp9\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

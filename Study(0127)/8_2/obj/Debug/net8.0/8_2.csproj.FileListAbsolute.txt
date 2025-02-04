@@ -1,0 +1,15 @@
+C:\Leran\TIL\Study(0127)\8_2\bin\Debug\net8.0\8_2.exe
+C:\Leran\TIL\Study(0127)\8_2\bin\Debug\net8.0\8_2.deps.json
+C:\Leran\TIL\Study(0127)\8_2\bin\Debug\net8.0\8_2.runtimeconfig.json
+C:\Leran\TIL\Study(0127)\8_2\bin\Debug\net8.0\8_2.dll
+C:\Leran\TIL\Study(0127)\8_2\bin\Debug\net8.0\8_2.pdb
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\8_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\8_2.AssemblyInfoInputs.cache
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\8_2.AssemblyInfo.cs
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\8_2.csproj.CoreCompileInputs.cache
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\8_2.sourcelink.json
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\8_2.dll
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\refint\8_2.dll
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\8_2.pdb
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\8_2.genruntimeconfig.cache
+C:\Leran\TIL\Study(0127)\8_2\obj\Debug\net8.0\ref\8_2.dll

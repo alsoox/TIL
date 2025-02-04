@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Leran\\Study(0127)\\MiniGame2-5\\MiniGame2-5.csproj",
+      "projectUniqueName": "C:\\Leran\\TIL\\Study(0127)\\MiniGame2-5\\MiniGame2-5.csproj",
       "projectName": "MiniGame2-5",
-      "projectPath": "C:\\Leran\\Study(0127)\\MiniGame2-5\\MiniGame2-5.csproj",
+      "projectPath": "C:\\Leran\\TIL\\Study(0127)\\MiniGame2-5\\MiniGame2-5.csproj",
       "packagesPath": "C:\\Users\\alsoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Leran\\Study(0127)\\MiniGame2-5\\obj\\",
+      "outputPath": "C:\\Leran\\TIL\\Study(0127)\\MiniGame2-5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

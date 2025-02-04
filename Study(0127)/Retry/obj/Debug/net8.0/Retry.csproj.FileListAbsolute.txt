@@ -1,0 +1,15 @@
+C:\Leran\TIL\Study(0127)\Retry\bin\Debug\net8.0\Retry.exe
+C:\Leran\TIL\Study(0127)\Retry\bin\Debug\net8.0\Retry.deps.json
+C:\Leran\TIL\Study(0127)\Retry\bin\Debug\net8.0\Retry.runtimeconfig.json
+C:\Leran\TIL\Study(0127)\Retry\bin\Debug\net8.0\Retry.dll
+C:\Leran\TIL\Study(0127)\Retry\bin\Debug\net8.0\Retry.pdb
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\Retry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\Retry.AssemblyInfoInputs.cache
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\Retry.AssemblyInfo.cs
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\Retry.csproj.CoreCompileInputs.cache
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\Retry.sourcelink.json
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\Retry.dll
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\refint\Retry.dll
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\Retry.pdb
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\Retry.genruntimeconfig.cache
+C:\Leran\TIL\Study(0127)\Retry\obj\Debug\net8.0\ref\Retry.dll

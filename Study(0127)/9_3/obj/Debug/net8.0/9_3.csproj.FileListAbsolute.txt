@@ -1,0 +1,15 @@
+C:\Leran\TIL\Study(0127)\9_3\bin\Debug\net8.0\9_3.exe
+C:\Leran\TIL\Study(0127)\9_3\bin\Debug\net8.0\9_3.deps.json
+C:\Leran\TIL\Study(0127)\9_3\bin\Debug\net8.0\9_3.runtimeconfig.json
+C:\Leran\TIL\Study(0127)\9_3\bin\Debug\net8.0\9_3.dll
+C:\Leran\TIL\Study(0127)\9_3\bin\Debug\net8.0\9_3.pdb
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\9_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\9_3.AssemblyInfoInputs.cache
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\9_3.AssemblyInfo.cs
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\9_3.csproj.CoreCompileInputs.cache
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\9_3.sourcelink.json
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\9_3.dll
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\refint\9_3.dll
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\9_3.pdb
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\9_3.genruntimeconfig.cache
+C:\Leran\TIL\Study(0127)\9_3\obj\Debug\net8.0\ref\9_3.dll

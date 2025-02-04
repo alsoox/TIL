@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Leran\\Study(0127)\\Test\\Test.csproj": {}
+    "C:\\Leran\\TIL\\Study(0127)\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Leran\\Study(0127)\\Test\\Test.csproj": {
+    "C:\\Leran\\TIL\\Study(0127)\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Leran\\Study(0127)\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Leran\\TIL\\Study(0127)\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Leran\\Study(0127)\\Test\\Test.csproj",
+        "projectPath": "C:\\Leran\\TIL\\Study(0127)\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\alsoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Leran\\Study(0127)\\Test\\obj\\",
+        "outputPath": "C:\\Leran\\TIL\\Study(0127)\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\Test3.AssemblyInfoInputs.cache
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\Test3.AssemblyInfo.cs
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\Test3.csproj.CoreCompileInputs.cache
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\Test3.sourcelink.json
+C:\Leran\TIL\Study(0127)\Test3\bin\Debug\net8.0\Test3.exe
+C:\Leran\TIL\Study(0127)\Test3\bin\Debug\net8.0\Test3.deps.json
+C:\Leran\TIL\Study(0127)\Test3\bin\Debug\net8.0\Test3.runtimeconfig.json
+C:\Leran\TIL\Study(0127)\Test3\bin\Debug\net8.0\Test3.dll
+C:\Leran\TIL\Study(0127)\Test3\bin\Debug\net8.0\Test3.pdb
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\Test3.dll
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\refint\Test3.dll
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\Test3.pdb
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\Test3.genruntimeconfig.cache
+C:\Leran\TIL\Study(0127)\Test3\obj\Debug\net8.0\ref\Test3.dll
